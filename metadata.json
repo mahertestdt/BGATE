@@ -1,0 +1,8 @@
+{
+  "name": "B-Gate Modern ICT Portal",
+  "description": "A high-performance, AI-integrated modern version of the B-Gate Saudi ICT and Managed Services platform, featuring service discovery, interactive visualizations, and an intelligent solution assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
